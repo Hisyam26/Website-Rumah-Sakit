@@ -1,0 +1,218 @@
+*{
+	margin:  0px;
+	font-family: arial normal bold helvetica,arial,sans-serif;
+}
+header{
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("rs-islam-sunan-kudus-jadwal-dokter-jam-besuk-dan-daftar-online.jpg");
+	height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+ul{
+	list-style-type: none;
+	float: right;
+	margin-top: 20px;
+
+}
+ul li{
+  display: inline-block;
+}
+ul li a{
+	text-decoration: none;
+	color: white;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	border: 1px solid #88ff00;
+	background-color: green;
+
+}
+ul li a:hover{
+	background-color: #88ff00;
+	color: black;
+	transition: 1s;
+
+}
+
+.main{
+	max-width: 1200px;
+	margin: auto;
+
+}
+
+.title{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.title h1{
+	font-family: verdana;
+	color: #88ff00;
+	font-size: 60px; 
+	text-shadow: 10px 10px 10px black;
+	letter-spacing: 10px;
+}
+
+input{
+    margin-left: 50px;
+    margin-top: 100px;
+    border-style: bold;
+    text-align: center;
+
+}
+.MsoNormalTable{
+	position: relative;
+	left: 500px;
+	top: 50px;
+
+}
+.Body1{
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("rs-islam-sunan-kudus-jadwal-dokter-jam-besuk-dan-daftar-online.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.Form{
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("rs-islam-sunan-kudus-jadwal-dokter-jam-besuk-dan-daftar-online.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+.kanan p{
+	color: black;
+	text-align: justify;
+	line-height: 200px;
+	font-family: verdana;
+	text-align: center;
+	font-size: 30px;
+	font-variant: small-caps;
+	text-shadow: 20px 10px 20px black ;
+
+}
+.Body2{
+	background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url("rs-islam-sunan-kudus-jadwal-dokter-jam-besuk-dan-daftar-online.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin-left: 170px;
+    margin-right: 170px;
+     
+}
+.body3 h4{
+    color: black;
+    font-family: verdana sans-serif;
+    line-height: 20px;
+    letter-spacing: 2px;
+    background-attachment: fixed;
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    font-weight: bold;
+
+}
+.tulisan_login{
+	text-align: center;
+	/*membuat semua huruf menjadi kapital*/
+	text-transform: uppercase;
+}
+ 
+.kotak_login{
+	width: 350px;
+
+	background: white;
+	/*meletakkan form ke tengah*/
+	margin: 100px auto;
+	padding: 50px 50px;
+	height: 350px;
+	border-radius: 5px;
+}
+ 
+label{
+	font-size: 11pt;
+	
+ }
+.form_login{
+	/*membuat lebar form penuh*/
+	box-sizing : border-box;
+	padding: 10px 25px 15px 30px;
+	font-size: 11pt;
+	margin-bottom: 0px;
+	margin-top: 10px;
+	border-radius: 3px;
+	
+}
+ 
+.tombol_login{
+	background: #46de4b;
+	color: white;
+	font-size: 11pt;
+	width: 68%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+	margin-top: 50px;
+}
+ 
+.link{
+	color: #232323;
+	text-decoration: none;
+	font-size: 10pt;
+}
+.kanan{
+	background-color: #88ff00;
+	size: 500px;
+	border-radius: 20px;
+
+}
+.body3{
+	border-radius: 20px;
+	background-color: white;
+}
+.tentang h4{
+	color: black;
+    font-family: verdana sans-serif;
+    line-height: 20px;
+    letter-spacing: 2px;
+    background-attachment: fixed;
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    font-weight: bold;
+}
+.Body4{
+	background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url("rs-islam-sunan-kudus-jadwal-dokter-jam-besuk-dan-daftar-online.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin-left: 170px;
+    margin-right: 170px;
+     
+}
+.Body5{
+    background-color: #88ff00;
+	size: 500px;
+	border-radius: 10px;
+}
+.Body5 h1{
+    color: black;
+	text-align: justify;
+	line-height: 200px;
+	font-family: verdana;
+	text-align: center;
+	font-size: 25px;
+	font-variant: small-caps;
+	text-shadow: 20px 10px 20px black ;
+
+}
+.Tentang{
+	border-radius: 10px;
+	background-color: white;
+	margin: 100px auto;
+	padding: 50px 70px;
+
+}
